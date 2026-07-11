@@ -93,24 +93,13 @@ const anas = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-chafiki&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=8B5CF6&fire=EC4899&currStreakLabel=6366F1" alt="GitHub Streak" />
-
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-chafiki&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=8B5CF6&fire=EC4899&currStreakLabel=6366F1" alt="GitHub Streak" />
+](https://streak-stats.demolab.com/?user=anas-chafiki&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=8B5CF6&fire=EC4899&currStreakLabel=6366F1)
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anas-chafiki&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366F1&line=8B5CF6&point=EC4899" alt="Activity Graph" />
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=anas-chafiki&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366F1&line=8B5CF6&point=EC4899" alt="Activity Graph" />
 
-</div>
-
----
-
-## 🎓 Formation
-
-| Diplôme | Établissement | Période |
-|---------|---------------|---------|
-| **Master ISI** | Faculté des Sciences Semlalia, Marrakech | 2025 – Présent |
-| **Licence Fondamentale** — Maths & Info | Faculté des Sciences Semlalia, Marrakech | 2024 – 2025 |
-| **DEUG** — Maths & Info | Faculté des Sciences Semlalia, Marrakech | 2022 – 2024 |
-| **Baccalauréat** — Sciences Mathématiques | Lycée Idriss 1er, Agdez | 2022 |
+</div>](https://streak-stats.demolab.com/?user=anas-chafiki&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=8B5CF6&fire=EC4899&currStreakLabel=6366F1)
 
 ---
 
@@ -198,8 +187,6 @@ Pipeline ML automatisé et distribué orchestré avec **Kubeflow** et **Apache A
 <div align="center">
 
 <!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/anas-chafiki/anas-chafiki/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=100&section=footer&animation=twinkling" width="100%"/>
