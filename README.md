@@ -11,8 +11,8 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/anas-chafiki?style=for-the-badge&logo=github&color=6366F1)](https://github.com/anas-chafiki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-chafiki)
-[![Email](https://img.shields.io/badge/Email-chafikianass@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chafikianass@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anas-chafiki-0553a9317)
+[![Email](https://img.shields.io/badge/Email-anaschafiki07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chafikianass@gmail.com)
 [![Location](https://img.shields.io/badge/Marrakech-Maroc-EF4444?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
 <img src="https://komarev.com/ghpvc/?username=anas-chafiki&label=Profile%20views&color=6366F1&style=for-the-badge" alt="Profile views" />
@@ -31,13 +31,10 @@ const anas = {
   currently: "En recherche d'un stage",
   interests: ["Développement Web", "Machine Learning", "Data Science", "DevOps"],
   traits: ["Autonome", "Curieux", "Esprit d'équipe"],
-  fun: () => {
-    console.log("Passionné par le code, le football et les voyages ✈️");
-  }
 };
 ```
 
-Étudiant en **4ᵉ année — Master Ingénierie des Systèmes d'Information** à la Faculté des Sciences Semlalia (Marrakech). Sérieux, motivé et autonome, je souhaite mettre mes compétences au service d'une entreprise et développer mon expérience professionnelle.
+Étudiant en **5ᵉ année — Master Ingénierie des Systèmes d'Information** à la Faculté des Sciences Semlalia (Marrakech). Sérieux, motivé et autonome, je souhaite mettre mes compétences au service d'une entreprise et développer mon expérience professionnelle.
 
 ---
 
@@ -117,27 +114,6 @@ const anas = {
 
 ---
 
-## 💼 Expérience Professionnelle
-
-### 🌐 Stagiaire en Développement Web — Eiffel Para
-> *Juillet 2023*
-
-- Conception et développement d'une **application web de gestion des stocks** avec automatisation des tâches
-- Mise en place de **modules d'administration** et amélioration des processus internes
-
-<div align="left">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</div>
-
----
-
 ## 🚀 Projets
 
 <table>
@@ -202,43 +178,6 @@ Pipeline ML automatisé et distribué orchestré avec **Kubeflow** et **Apache A
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-| Plateforme | Certification |
-|------------|---------------|
-| **Coursera** | Research Methodology |
-| **DataCamp** | Introduction to Deep Learning with PyTorch |
-| **DataCamp** | Unsupervised Learning in Python |
-
-</div>
-
----
-
-## 🌍 Langues
-
-<div align="center">
-
-| Langue | Niveau |
-|--------|--------|
-| 🇲🇦 Arabe | Maternelle |
-| 🇫🇷 Français | Courant |
-| 🇬🇧 Anglais | Intermédiaire |
-
-</div>
-
----
-
-## 🎯 Centres d'intérêt
-
-<div align="center">
-
-![Développement personnel](https://img.shields.io/badge/Développement%20personnel-6366F1?style=for-the-badge)
-![Voyage](https://img.shields.io/badge/Voyage%20%26%20Culture-8B5CF6?style=for-the-badge)
-![Football](https://img.shields.io/badge/Football-22C55E?style=for-the-badge)
-![Travail en équipe](https://img.shields.io/badge/Travail%20en%20équipe-EC4899?style=for-the-badge)
-
 </div>
 
 ---
@@ -248,8 +187,8 @@ Pipeline ML automatisé et distribué orchestré avec **Kubeflow** et **Apache A
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-anas--chafiki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anas-chafiki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas%20Chafiki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anas-chafiki)
-[![Gmail](https://img.shields.io/badge/Gmail-chafikianass@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chafikianass@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas%20Chafiki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anas-chafiki-0553a9317)
+[![Gmail](https://img.shields.io/badge/Gmail-anaschafiki07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chafikianass@gmail.com)
 [![Phone](https://img.shields.io/badge/Téléphone-+212%20619--059715-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212619059715)
 
 </div>
