@@ -24,19 +24,20 @@
 ## 👨‍💻 À propos de moi
 
 ```javascript
-const anas = {
-  role: "Étudiant Master ISI",
-  location: "Marrakech, Maroc 🇲🇦",
-  mobility: "Nationale",
-  currently: "En recherche d'un stage",
-  interests: ["Développement Web", "Machine Learning", "Data Science", "DevOps"],
-  traits: ["Autonome", "Curieux", "Esprit d'équipe"],
+const brahim: Developer = {
+  name:        "Brahim Semlali",
+  role:        "Full Stack Developer",
+  location:    "Morocco 🇲🇦",
+  languages:   ["JavaScript", "TypeScript", "Python", "Java"],
+  frameworks:  ["React", "Django", "Spring Boot"],
+  devops:      ["Docker", "Nginx", "Linux", "CI/CD"],
+  databases:   ["PostgreSQL", "MySQL", "SQLite", "Firebase"],
+  focus:       ["Scalable Web Apps", "Security", "Token Systems"],
+  learning:    ["Cloud Architecture", "System Design", "DevOps"],
+  goal:        "Become a high-level Software Engineer 🚀",
+  openTo:      ["Collaborations", "Internships", "Networking"],
 };
 ```
-
-Étudiant en **5ᵉ année — Master Ingénierie des Systèmes d'Information** à la Faculté des Sciences Semlalia (Marrakech). Sérieux, motivé et autonome, je souhaite mettre mes compétences au service d'une entreprise et développer mon expérience professionnelle.
-
----
 
 ## 🛠️ Stack Technique
 
