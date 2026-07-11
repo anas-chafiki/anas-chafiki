@@ -13,7 +13,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/anas-chafiki?style=for-the-badge&logo=github&color=6366F1)](https://github.com/anas-chafiki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-chafiki-0553a9317/)
 [![Email](https://img.shields.io/badge/Email-anaschafiki07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chafikianass@gmail.com)
-[![Location](https://img.shields.io/badge/Marrakech-Maroc-EF4444?style=for-the-badge&logo=google-maps&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Marrakech-Morocco-EF4444?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
 <img src="https://komarev.com/ghpvc/?username=anas-chafiki&label=Profile%20views&color=6366F1&style=for-the-badge" alt="Profile views" />
 
@@ -21,11 +21,11 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+## 👨‍💻 About Me
 
 ```javascript
 const Anas: Developer = {
-  name:        "Brahim Semlali",
+  name:        "Anas Chafiki",
   role:        "Full Stack Developer",
   location:    "Morocco 🇲🇦",
   languages:   ["JavaScript", "TypeScript", "Python", "Java"],
@@ -39,9 +39,9 @@ const Anas: Developer = {
 };
 ```
 
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
-### Langages & Frameworks
+### Languages & Frameworks
 
 <div align="center">
 
@@ -49,7 +49,7 @@ const Anas: Developer = {
 
 </div>
 
-### Bases de données & Outils
+### Databases & Tools
 
 <div align="center">
 
@@ -72,7 +72,7 @@ const Anas: Developer = {
 
 </div>
 
-### Méthodologies & Gestion de projet
+### Methodologies & Project Management
 
 <div align="center">
 
@@ -85,7 +85,7 @@ const Anas: Developer = {
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -96,18 +96,18 @@ const Anas: Developer = {
 
 ---
 
-## 🚀 Projets
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🏋️ S7aFit — HealthTech SaaS
-Plateforme SaaS de coaching nutritionnel et sportif combinant **IA & Machine Learning**, déployée en production.
+A SaaS platform for nutrition and fitness coaching combining **AI & Machine Learning**, deployed in production.
 
-- Coach IA & reconnaissance de repas par photo
-- Estimation automatique calories/macros
-- Plans personnalisés & prédictions ML du poids
+- AI coach & meal photo recognition
+- Automatic calorie/macro estimation
+- Personalized plans & ML weight predictions
 
 <br/>
 
@@ -120,11 +120,11 @@ Plateforme SaaS de coaching nutritionnel et sportif combinant **IA & Machine Lea
 <td width="50%" valign="top">
 
 ### 🎯 StratQuest — Gamification
-Application web gamifiée d'apprentissage des stratégies d'entreprise (VRIO, SWOT, core competences).
+A gamified web app for learning business strategy concepts (VRIO, SWOT, core competences).
 
-- Système de gamification complet (points, niveaux, badges)
-- Quiz interactifs
-- Authentification sécurisée JWT
+- Full gamification system (points, levels, badges)
+- Interactive quizzes
+- Secure JWT authentication
 
 <br/>
 
@@ -138,12 +138,12 @@ Application web gamifiée d'apprentissage des stratégies d'entreprise (VRIO, SW
 <tr>
 <td colspan="2" valign="top">
 
-### 🤖 MLOps — Pipeline ML Scalable
-Pipeline ML automatisé et distribué orchestré avec **Kubeflow** et **Apache Airflow**, appliqué à la prédiction de sévérité du cancer.
+### 🤖 MLOps — Scalable ML Pipeline
+An automated, distributed ML pipeline orchestrated with **Kubeflow** and **Apache Airflow**, applied to cancer severity prediction.
 
-- Architecture conteneurisée Docker/Kubernetes
-- API REST FastAPI performante
-- Interface Streamlit pour prédictions en temps réel
+- Containerized architecture with Docker/Kubernetes
+- High-performance FastAPI REST API
+- Streamlit interface for real-time predictions
 
 <br/>
 
@@ -171,7 +171,7 @@ Pipeline ML automatisé et distribué orchestré avec **Kubeflow** et **Apache A
 [![GitHub](https://img.shields.io/badge/GitHub-anas--chafiki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anas-chafiki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas%20Chafiki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-chafiki-0553a9317/)
 [![Gmail](https://img.shields.io/badge/Gmail-anaschafiki07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chafikianass@gmail.com)
-[![Phone](https://img.shields.io/badge/Téléphone-+212%20619--059715-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212619059715)
+[![Phone](https://img.shields.io/badge/Phone-+212%20619--059715-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212619059715)
 
 </div>
 
@@ -179,11 +179,10 @@ Pipeline ML automatisé et distribué orchestré avec **Kubeflow** et **Apache A
 
 <div align="center">
 
-<!-- Snake animation -->
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=100&section=footer&animation=twinkling" width="100%"/>
 
-**Merci de votre visite ! N'hésitez pas à me contacter pour un stage ou une collaboration 🤝**
+**Thanks for visiting! Feel free to reach out for an internship or collaboration 🤝**
 
 </div>
