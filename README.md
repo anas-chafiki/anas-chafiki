@@ -24,7 +24,7 @@
 ## 👨‍💻 À propos de moi
 
 ```javascript
-const brahim: Developer = {
+const Anas: Developer = {
   name:        "Brahim Semlali",
   role:        "Full Stack Developer",
   location:    "Morocco 🇲🇦",
