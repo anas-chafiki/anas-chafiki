@@ -11,7 +11,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/anas-chafiki?style=for-the-badge&logo=github&color=6366F1)](https://github.com/anas-chafiki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/anas-chafiki-0553a9317](https://www.linkedin.com/in/anas-chafiki-0553a9317/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/anas-chafiki-0553a9317/))]
 [![Email](https://img.shields.io/badge/Email-anaschafiki07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chafikianass@gmail.com)
 [![Location](https://img.shields.io/badge/Marrakech-Maroc-EF4444?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
