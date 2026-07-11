@@ -93,14 +93,6 @@ const anas = {
 
 <br/>
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-chafiki&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=8B5CF6&fire=EC4899&currStreakLabel=6366F1" alt="GitHub Streak" />
-](https://streak-stats.demolab.com/?user=anas-chafiki&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=8B5CF6&fire=EC4899&currStreakLabel=6366F1)
-<br/>
-
-[<img src="https://github-readme-activity-graph.vercel.app/graph?username=anas-chafiki&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366F1&line=8B5CF6&point=EC4899" alt="Activity Graph" />
-
-</div>](https://streak-stats.demolab.com/?user=anas-chafiki&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=8B5CF6&fire=EC4899&currStreakLabel=6366F1)
-
 ---
 
 ## 🚀 Projets
@@ -176,7 +168,7 @@ Pipeline ML automatisé et distribué orchestré avec **Kubeflow** et **Apache A
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-anas--chafiki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anas-chafiki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas%20Chafiki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anas-chafiki-0553a9317)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas%20Chafiki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-chafiki-0553a9317/)
 [![Gmail](https://img.shields.io/badge/Gmail-anaschafiki07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chafikianass@gmail.com)
 [![Phone](https://img.shields.io/badge/Téléphone-+212%20619--059715-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212619059715)
 
